@@ -1,0 +1,13 @@
+{
+  "name": "delta-jquery-ui-theme",
+  "homepage": "https://github.com/kiandra/Delta-jQuery-UI-Theme",
+  "_release": "866f735258",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "866f73525867b066af5e44d0d70307f95ec93bfe"
+  },
+  "_source": "https://github.com/kiandra/Delta-jQuery-UI-Theme.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/kiandra/Delta-jQuery-UI-Theme.git"
+}

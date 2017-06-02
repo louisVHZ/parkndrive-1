@@ -1,0 +1,33 @@
+{
+  "name": "parkndrive",
+  "description": "parkndrive",
+  "main": "server/server.js",
+  "authors": [
+    "bjorge <bastien.jorge@parknplug.fr>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/louisVHZ/myPnD",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.0.0",
+    "d3": "^3.5.17",
+    "c3": "^0.4.11",
+    "malihu-custom-scrollbar-plugin": "^3.1.4",
+    "font-awesome": "Font-Awesome#^4.6.3",
+    "normalize-css": "^4.1.1",
+    "bootstrap-grid-only": "*",
+    "socket.io-client": "^1.4.6",
+    "tooltipster": "^4.1.4",
+    "clipboard": "^1.5.12",
+    "moment": "^2.17.1",
+    "jquery-ui": "^1.12.1",
+    "delta-jquery-ui-theme": "https://github.com/kiandra/Delta-jQuery-UI-Theme.git"
+  }
+}
